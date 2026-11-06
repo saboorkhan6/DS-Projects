@@ -33,7 +33,6 @@ Five different analytical questions were explored using visualizations.
 - Compared total sales across different categories.
 - Used a bar chart to visualize the results.
 
-![Sales by Category](1_bar_category_sales.png)
 
 ### 2. Order Value Distribution – Boxen Plot
 
@@ -43,7 +42,7 @@ Five different analytical questions were explored using visualizations.
 - Compared product categories within each region.
 - Used a logarithmic scale to visualize the distribution.
 
-![Sales Distribution](2_box_sales_by_region_category.png)
+
 
 ### 3. Regional Profitability – Heatmap
 
